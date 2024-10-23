@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4FD962F9-4B7E-BB99-25A6-389A3884C0DC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4_27CustomComp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
